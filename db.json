@@ -1,266 +1,264 @@
 {
-    "status": "ok",
-    "totalResults": 38,
     "articles": [
-    {
-    "source": {
-    "id": null,
-    "name": "Sportskeeda"
-    },
-    "author": "Suman Biswas",
-    "title": "5 games that might be showcased at PlayStation State of Play (September 2022) - Sportskeeda",
-    "description": "PlayStation has announced the State of Play event that will showcase new reveals and updates for PS4, PS5 and the upcoming PSVR2.",
-    "url": "https://www.sportskeeda.com/esports/5-games-might-showcased-playstation-state-play-september-2022",
-    "urlToImage": "https://staticg.sportskeeda.com/editor/2022/09/7df75-16630629290554-1920.jpg",
-    "publishedAt": "2022-09-13T12:03:35Z",
-    "content": "PlayStation has announced the State of Play event that will showcase new reveals and updates for PS4, PS5 and the upcoming PSVR2. Although PlayStation has not confirmed what games and updates, it wil… [+6324 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Oneindia.com"
-    },
-    "author": "OneIndia Staff Correspondent",
-    "title": "Artemis 1: NASA to attempt 3rd launch of Moon mission on September 27 - Oneindia",
-    "description": "NASA is again preparing to launch its Artemis 1 mission to the moon rocket on a test flight on a long-awaited mission to send an unpiloted Orion crew capsule on a 42-day trip.The US space agency will now conduct the demonstration test no earlier than Wednesda…",
-    "url": "https://www.oneindia.com/international/artemis-1-nasa-to-attempt-3rd-launch-of-moon-mission-on-september-27-3461177.html",
-    "urlToImage": "https://www.oneindia.com/img/2022/09/nasa1-1663070225.jpg",
-    "publishedAt": "2022-09-13T11:59:22Z",
-    "content": "Washington, Sep 13: NASA is again preparing to launch its Artemis 1 mission to the moon rocket on a test flight on a long-awaited mission to send an unpiloted Orion crew capsule on a 42-day trip.\r\nTh… [+3389 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The Indian Express"
-    },
-    "author": "Tech Desk",
-    "title": "Dark Energy Camera captures 'Lobster Nebula' in stunning red - The Indian Express",
-    "description": "The Dark Energy Camera captured this stunning image of the Lobster Nebula and many of its unusually bright and massive young stars.",
-    "url": "https://indianexpress.com/article/technology/science/dark-energy-camera-lobster-nebula-8148771/",
-    "urlToImage": "https://images.indianexpress.com/2022/09/Dark-energy-camera-lobster-nebula.jpg",
-    "publishedAt": "2022-09-13T11:42:20Z",
-    "content": "NOIRLabs Dark Energy Camera situated at the Cerro Tololo Inter-American Observatory in Chile has captured a stunning image of the star-forming nebula NGC 6357, also known as the Lobster Nebula.The Da… [+1596 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "YouTube"
-    },
-    "author": null,
-    "title": "Harsha Bhogle reviews India's T20 World Cup 2022 Squad - Cricbuzz",
-    "description": "Watch Harsha Bhogle react to India's squad for the T20 World Cup 2022 and shed light on India's quest for the right combination come the mega tournament #T20...",
-    "url": "https://www.youtube.com/watch?v=ZYHStykGTr0",
-    "urlToImage": "https://i.ytimg.com/vi/ZYHStykGTr0/maxresdefault.jpg",
-    "publishedAt": "2022-09-13T11:30:11Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": null,
-    "title": "COVID Booster Doses: 5 Reasons Why Young People Should Get It ASAP | TheHealthSite.com - TheHealthSite",
-    "description": null,
-    "url": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnRoZWhlYWx0aHNpdGUuY29tL25ld3MvY292aWQtYm9vc3Rlci1kb3Nlcy01LXJlYXNvbnMtd2h5LXlvdW5nLXBlb3BsZS1zaG91bGQtZ2V0LWl0LWFzYXAtOTA4MTEwL9IBAA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2022-09-13T11:16:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "NDTV News"
-    },
-    "author": null,
-    "title": "Russia Says Delivering \"Massive\" Strikes On Ukraine Frontlines - NDTV",
-    "description": "Ukraine War: The Russian military said Tuesday it had launched \"massive strikes\" on all front lines in Ukraine, after Kyiv's forces made dramatic advances in a counter-offensive.",
-    "url": "https://www.ndtv.com/world-news/russia-says-delivering-massive-strikes-on-ukraine-front-lines-news-agency-afp-3340373",
-    "urlToImage": "https://c.ndtvimg.com/2022-02/tvpkfh_russia-ukraine-crisis-afp-650_625x300_27_February_22.jpg",
-    "publishedAt": "2022-09-13T11:05:00Z",
-    "content": "Russia-Ukraine War: Russia said it had launched \"high-precision\" strikes in eastern Donetsk region.\r\nMoscow: \"Air, rocket and artillery forces are carrying out massive strikes on units of the Ukraini… [+1151 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The Indian Express"
-    },
-    "author": "Atri Mitra",
-    "title": "West Bengal Nabanna Abhiyan Live: BJP leaders Suvendu Adhikari, Locket Chatterjee detained; police lathicharge party workers - The Indian Express",
-    "description": "West Bengal Nabanna Abhiyan Live: BJP MLAs Tapashi Mondol and Dibakar Gharami were among many detained on their way to the West Bengal capital, where the Opposition party has planned one of its biggest campaigns since its 2021 poll defeat.",
-    "url": "https://indianexpress.com/article/cities/kolkata/kolkata-nabanna-abhiyan-rally-live-updates-bjp-trinamool-congress-8148049/",
-    "urlToImage": "https://images.indianexpress.com/2022/09/bengal-clash.jpeg",
-    "publishedAt": "2022-09-13T10:44:56Z",
-    "content": "Security personnel deployed on the NH 117, barricaded to stop BJP supporters from taking part in the party's 'Nabanna Abhiyan' (March to Secretariat), in Howrah district, Tuesday, Sept. 13, 2022. (PT… [+669 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Livelaw.in"
-    },
-    "author": "LIVELAW NEWS NETWORK",
-    "title": "EWS Reservation- Supreme Court Constitution Bench Hearing- LIVE UPDATES - Live Law - Indian Legal News",
-    "description": "The Supreme Court Constitution Bench will commence the hearing on the cases challenging the...",
-    "url": "https://www.livelaw.in/top-stories/ews-reservation-supreme-court-constitution-bench-209111",
-    "urlToImage": "https://www.livelaw.in/h-upload/2022/09/06/433815-ews-quota.jpg",
-    "publishedAt": "2022-09-13T10:36:29Z",
-    "content": "The Supreme Court Constitution Bench will commence the hearing on the cases challenging the constitutional validity of reservation for . \r\nIn the last hearing, the 5-judge bench comprising Chief Just… [+1241 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Hindustan Times"
-    },
-    "author": "Sharmita Kar",
-    "title": "26 drugs dropped from 'essentials' list, at least one over cancer-causing fears - Hindustan Times",
-    "description": "NLEM 2022: Union health minister Mansukh Mandaviya launched the new list of essential medicines and also announced a price cap on commonly used drugs. | Latest News India",
-    "url": "https://www.hindustantimes.com/india-news/26-drugs-dropped-from-essentials-list-one-over-cancer-concerns-details-here-101663059742735.html",
-    "urlToImage": "https://images.hindustantimes.com/img/2022/09/13/1600x900/6e03299e-0ab4-11ed-9a7b-b095af601a35_1658600722016_1663062365137_1663062365137.jpg",
-    "publishedAt": "2022-09-13T09:47:28Z",
-    "content": "Union health minister Mansukh Mandaviya on Tuesday released a revised National List of Essential Medicines (NLEM), in which 384 drugs from 27 categories do not feature, including ranitidine - often t… [+2306 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "GSMArena.com"
-    },
-    "author": "Michail",
-    "title": "Motorola Edge 30 Ultra and Edge 30 Fusion launch in India - GSMArena.com news - GSMArena.com",
-    "description": "Open sales start on September 22.",
-    "url": "https://www.gsmarena.com/motorola_edge_30_ultra_and_edge_30_fusion_launch_in_india-news-55764.php",
-    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/09/motorola-edge-30-ultra-fusion-india-ofic/-952x498w6/gsmarena_00.jpg",
-    "publishedAt": "2022-09-13T09:32:01Z",
-    "content": "Motorola announced its Edge 30 Ultra and Edge 30 Fusion last week and now both phones made their way to India.\r\nEdge 30 Ultra is available in Starlight White and Interstellar Black colors with retail… [+630 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The Indian Express"
-    },
-    "author": "Reuters",
-    "title": "Jean-Luc Godard, Godfather of French New Wave cinema, dies at 91 - The Indian Express",
-    "description": "Film director Jean-Luc Godard, known for pushing cinematic boundaries and inspiring iconoclastic directors across the globe, died on Tuesday aged 91.",
-    "url": "https://indianexpress.com/article/entertainment/hollywood/french-filmmaker-jean-luc-godard-dead-8148310/",
-    "urlToImage": "https://images.indianexpress.com/2022/09/godard-2.jpeg",
-    "publishedAt": "2022-09-13T08:26:26Z",
-    "content": "Film director Jean-Luc Godard, the godfather of France’s New Wave cinema, died on Tuesday aged 91, newspaper Liberation said, citing people close to the Franco-Swiss director. Godard was among the wo… [+1741 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Livemint"
-    },
-    "author": "Livemint",
-    "title": "Gurgaon: Bomb scare at 5-star hotel in a mall. Details here | Mint - Mint",
-    "description": "The Gurgaon police and bomb squad have reached the spot",
-    "url": "https://www.livemint.com/news/india/gurgaon-bomb-scare-at-5-star-hotel-in-a-mall-in-gurugram-details-here-11663056336935.html",
-    "urlToImage": "https://images.livemint.com/img/2022/09/13/600x338/gurgaon_1588306080288_1588306080685_1663056600395_1663056600395.jpg",
-    "publishedAt": "2022-09-13T08:10:40Z",
-    "content": "A bomb threat call received at a five-star hotel in a mall in Gurugram, news agency ANI reported."
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "NDTV News"
-    },
-    "author": null,
-    "title": "Koffee With Karan 7: Varun Dhawan Reveals \"The Only Person\" He Considers Competition - NDTV Movies",
-    "description": "\"I seek inspiration from that and aspire to do it too as a performer,\" said Varun Dhawan",
-    "url": "https://www.ndtv.com/entertainment/koffee-with-karan-varun-dhawan-reveals-who-he-considers-his-competition-3339876",
-    "urlToImage": "https://c.ndtvimg.com/2022-09/uh2g6s0g_-varun-dhawan-_625x300_13_September_22.jpg",
-    "publishedAt": "2022-09-13T07:55:36Z",
-    "content": "Anil Kapoor, KJo and Varun on the show. (courtesy: karanjohar)\r\nMumbai: Koffee With Karan Season 7 is candidly taking viewers a step closer to the secrets of celebrities week after week. In its eleve… [+2152 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "NDTV News"
-    },
-    "author": null,
-    "title": "Congress Is Finished, Says Arvind Kejriwal In Gujarat - NDTV",
-    "description": "Arvind Kejriwal, responding to an allegation by the Congress, said in Gujarat today, \"The Congress is finished\".",
-    "url": "https://www.ndtv.com/india-news/congress-is-finished-says-arvind-kejriwal-in-gujarat-3339800",
-    "urlToImage": "https://c.ndtvimg.com/2022-09/3hnj6tqo_arvind-kejriwal_650x400_13_September_22.jpg",
-    "publishedAt": "2022-09-13T07:55:00Z",
-    "content": "Mr Kejriwal has been pitching AAP as the BJP's main rival, instead of the Congress.\r\nAhmedabad: Arvind Kejriwal, responding to an allegation by the Congress, declared in Gujarat today, \"The Congress … [+1411 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "WION"
-    },
-    "author": "WION Web Team",
-    "title": "India`s cervical cancer vaccine can turn the tables significantly, doctors say - WION",
-    "description": "Cervavac is expected to be ready for mass manufacturing by the end of this year.",
-    "url": "https://www.wionews.com/india-news/indias-cervical-cancer-vaccine-can-turn-the-tables-significantly-doctors-say-515683",
-    "urlToImage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/09/13/295311-untitled-design-8.png",
-    "publishedAt": "2022-09-13T07:47:05Z",
-    "content": "Doctors believe that Cervavac, India's first indigenously developed cervical cancer vaccine that works against the human papillomavirus (HPV), can significantly lower the incidence and fatality of th… [+1400 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Livemint"
-    },
-    "author": "Sounak Mukhopadhyay",
-    "title": "Cancer treatment: Here comes US President Joe Biden’s big plan to reduce deaths in US | Mint - Mint",
-    "description": "US President Joe Biden has announced an ambitious plan to reduce cancer deaths in the US.",
-    "url": "https://www.livemint.com/news/world/cancer-treatment-here-comes-us-president-joe-biden-s-big-plan-to-reduce-deaths-in-us-11663051150514.html",
-    "urlToImage": "https://images.livemint.com/img/2022/09/13/600x338/Election-2022-Democrats-0_1663054300932_1663054300932_1663054320023_1663054320023.jpg",
-    "publishedAt": "2022-09-13T07:36:53Z",
-    "content": "Cancer is the second leading cause of death in the US after heart disease. And, now, US President Joe Biden has unveiled an ambitious strategy to lower its fatalities. Biden introduced a new organisa… [+3820 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Abplive.com"
-    },
-    "author": "IANS",
-    "title": "Tamil Nadu Reports Spike In Flu Among Children - ABP Live",
-    "description": "Doctors said that there is a 25 per cent spike in the number of flu-related fever, cold, and cough in the past few weeks across the state especially among school-going children.",
-    "url": "https://news.abplive.com/tamil-nadu/tamil-nadu-reports-spike-in-flu-among-children-1553119",
-    "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/09/08/3227b2ff1233fb2dbe3c9eb591becb4d1662638068788235_original.jpeg?impolicy=abp_cdn&imwidth=1200&imheight=628",
-    "publishedAt": "2022-09-13T07:27:17Z",
-    "content": "Chennai: With Flu on the rise among children in various districts of Tamil Nadu, the admission rates in hospitals have increased and a large number of students are absent from schools.\r\nDoctors said … [+1965 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Livemint"
-    },
-    "author": "Livemint",
-    "title": "Vedanta Chairman Anil Agarwal: 'The journey from being a chip taker to a chip maker has officially begun' | Mint - Mint",
-    "description": "Vedanta Ltd has selected Gujarat for its semiconductor project",
-    "url": "https://www.livemint.com/news/india/vedanta-chairman-anil-agarwal-the-journey-from-being-a-chip-taker-to-a-chip-maker-has-officially-begun-11663052486866.html",
-    "urlToImage": "https://images.livemint.com/img/2022/09/13/600x338/Anil_Agarwal__1663053789209_1663053789335_1663053789335.jpg",
-    "publishedAt": "2022-09-13T07:24:16Z",
-    "content": "Vedanta Ltd and and electronics manufacturing giant Foxconn will invest 1,54,000 crore to set up a semiconductor project in Gujarat. The Memorandum of Understanding (MoU) was signed in the presence o… [+3469 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Www.bgr.in"
-    },
-    "author": "Shweta Ganjoo",
-    "title": "Realme launches a new entry-level in India: Check price, specs - BGR India",
-    "description": "The Realme Narzo 50i Prime starts in India at Rs 7999 and it will be up for sale in the country starting 12PM on September 22.",
-    "url": "https://www.bgr.in/mobiles/realme-narzo-50i-prime-launched-in-india-check-price-specs-availability-here-1324081/",
-    "urlToImage": "https://st1.bgr.in/wp-content/uploads/2022/09/Realme-Narzo-50i-Prime-4.jpg",
-    "publishedAt": "2022-09-13T07:22:01Z",
-    "content": "Realme today launched a new entry smartphone in India. The newly launched Realme Narzo 50i Prime joins other Narzo 50 series smartphones, which includes the Narzo 50A, Narzo 50i, Narzo 50, Narzo 50A … [+2249 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The Indian Express"
-    },
-    "author": "Shruti Dhapola",
-    "title": "Apple iOS 16 tips and tricks: Edit lock screen, remove photo background and more - The Indian Express",
-    "description": "iOS 16 tips, tricks: The iOS 16 update brings a major design change for the lock screen along with changes to the Messages app and other features. Here's a quick look at some useful tip.",
-    "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-ios-16-tips-and-tricks-customise-lock-screen-to-removing-photo-background-8147990/",
-    "urlToImage": "https://images.indianexpress.com/2022/09/AppleiOS16_LEAD.jpg",
-    "publishedAt": "2022-09-13T07:05:37Z",
-    "content": "Apples iOS 16 update has officially rolled out for all eligible iPhones, from the iPhone 8 and above, and it comes with some neat features that users will appreciate. The iOS 16 update brings a major… [+4126 chars]"
-    }
+        {
+            "source": {
+                "id": null,
+                "name": "Sportskeeda"
+            },
+            "author": "Suman Biswas",
+            "title": "5 games that might be showcased at PlayStation State of Play (September 2022) - Sportskeeda",
+            "description": "PlayStation has announced the State of Play event that will showcase new reveals and updates for PS4, PS5 and the upcoming PSVR2.",
+            "url": "https://www.sportskeeda.com/esports/5-games-might-showcased-playstation-state-play-september-2022",
+            "urlToImage": "https://staticg.sportskeeda.com/editor/2022/09/7df75-16630629290554-1920.jpg",
+            "publishedAt": "2022-09-13T12:03:35Z",
+            "content": "PlayStation has announced the State of Play event that will showcase new reveals and updates for PS4, PS5 and the upcoming PSVR2. Although PlayStation has not confirmed what games and updates, it wil… [+6324 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Oneindia.com"
+            },
+            "author": "OneIndia Staff Correspondent",
+            "title": "Artemis 1: NASA to attempt 3rd launch of Moon mission on September 27 - Oneindia",
+            "description": "NASA is again preparing to launch its Artemis 1 mission to the moon rocket on a test flight on a long-awaited mission to send an unpiloted Orion crew capsule on a 42-day trip.The US space agency will now conduct the demonstration test no earlier than Wednesda…",
+            "url": "https://www.oneindia.com/international/artemis-1-nasa-to-attempt-3rd-launch-of-moon-mission-on-september-27-3461177.html",
+            "urlToImage": "https://www.oneindia.com/img/2022/09/nasa1-1663070225.jpg",
+            "publishedAt": "2022-09-13T11:59:22Z",
+            "content": "Washington, Sep 13: NASA is again preparing to launch its Artemis 1 mission to the moon rocket on a test flight on a long-awaited mission to send an unpiloted Orion crew capsule on a 42-day trip.\r\nTh… [+3389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Tech Desk",
+            "title": "Dark Energy Camera captures 'Lobster Nebula' in stunning red - The Indian Express",
+            "description": "The Dark Energy Camera captured this stunning image of the Lobster Nebula and many of its unusually bright and massive young stars.",
+            "url": "https://indianexpress.com/article/technology/science/dark-energy-camera-lobster-nebula-8148771/",
+            "urlToImage": "https://images.indianexpress.com/2022/09/Dark-energy-camera-lobster-nebula.jpg",
+            "publishedAt": "2022-09-13T11:42:20Z",
+            "content": "NOIRLabs Dark Energy Camera situated at the Cerro Tololo Inter-American Observatory in Chile has captured a stunning image of the star-forming nebula NGC 6357, also known as the Lobster Nebula.The Da… [+1596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Harsha Bhogle reviews India's T20 World Cup 2022 Squad - Cricbuzz",
+            "description": "Watch Harsha Bhogle react to India's squad for the T20 World Cup 2022 and shed light on India's quest for the right combination come the mega tournament #T20...",
+            "url": "https://www.youtube.com/watch?v=ZYHStykGTr0",
+            "urlToImage": "https://i.ytimg.com/vi/ZYHStykGTr0/maxresdefault.jpg",
+            "publishedAt": "2022-09-13T11:30:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "COVID Booster Doses: 5 Reasons Why Young People Should Get It ASAP | TheHealthSite.com - TheHealthSite",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnRoZWhlYWx0aHNpdGUuY29tL25ld3MvY292aWQtYm9vc3Rlci1kb3Nlcy01LXJlYXNvbnMtd2h5LXlvdW5nLXBlb3BsZS1zaG91bGQtZ2V0LWl0LWFzYXAtOTA4MTEwL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-09-13T11:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Russia Says Delivering \"Massive\" Strikes On Ukraine Frontlines - NDTV",
+            "description": "Ukraine War: The Russian military said Tuesday it had launched \"massive strikes\" on all front lines in Ukraine, after Kyiv's forces made dramatic advances in a counter-offensive.",
+            "url": "https://www.ndtv.com/world-news/russia-says-delivering-massive-strikes-on-ukraine-front-lines-news-agency-afp-3340373",
+            "urlToImage": "https://c.ndtvimg.com/2022-02/tvpkfh_russia-ukraine-crisis-afp-650_625x300_27_February_22.jpg",
+            "publishedAt": "2022-09-13T11:05:00Z",
+            "content": "Russia-Ukraine War: Russia said it had launched \"high-precision\" strikes in eastern Donetsk region.\r\nMoscow: \"Air, rocket and artillery forces are carrying out massive strikes on units of the Ukraini… [+1151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Atri Mitra",
+            "title": "West Bengal Nabanna Abhiyan Live: BJP leaders Suvendu Adhikari, Locket Chatterjee detained; police lathicharge party workers - The Indian Express",
+            "description": "West Bengal Nabanna Abhiyan Live: BJP MLAs Tapashi Mondol and Dibakar Gharami were among many detained on their way to the West Bengal capital, where the Opposition party has planned one of its biggest campaigns since its 2021 poll defeat.",
+            "url": "https://indianexpress.com/article/cities/kolkata/kolkata-nabanna-abhiyan-rally-live-updates-bjp-trinamool-congress-8148049/",
+            "urlToImage": "https://images.indianexpress.com/2022/09/bengal-clash.jpeg",
+            "publishedAt": "2022-09-13T10:44:56Z",
+            "content": "Security personnel deployed on the NH 117, barricaded to stop BJP supporters from taking part in the party's 'Nabanna Abhiyan' (March to Secretariat), in Howrah district, Tuesday, Sept. 13, 2022. (PT… [+669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livelaw.in"
+            },
+            "author": "LIVELAW NEWS NETWORK",
+            "title": "EWS Reservation- Supreme Court Constitution Bench Hearing- LIVE UPDATES - Live Law - Indian Legal News",
+            "description": "The Supreme Court Constitution Bench will commence the hearing on the cases challenging the...",
+            "url": "https://www.livelaw.in/top-stories/ews-reservation-supreme-court-constitution-bench-209111",
+            "urlToImage": "https://www.livelaw.in/h-upload/2022/09/06/433815-ews-quota.jpg",
+            "publishedAt": "2022-09-13T10:36:29Z",
+            "content": "The Supreme Court Constitution Bench will commence the hearing on the cases challenging the constitutional validity of reservation for . \r\nIn the last hearing, the 5-judge bench comprising Chief Just… [+1241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Sharmita Kar",
+            "title": "26 drugs dropped from 'essentials' list, at least one over cancer-causing fears - Hindustan Times",
+            "description": "NLEM 2022: Union health minister Mansukh Mandaviya launched the new list of essential medicines and also announced a price cap on commonly used drugs. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/26-drugs-dropped-from-essentials-list-one-over-cancer-concerns-details-here-101663059742735.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/09/13/1600x900/6e03299e-0ab4-11ed-9a7b-b095af601a35_1658600722016_1663062365137_1663062365137.jpg",
+            "publishedAt": "2022-09-13T09:47:28Z",
+            "content": "Union health minister Mansukh Mandaviya on Tuesday released a revised National List of Essential Medicines (NLEM), in which 384 drugs from 27 categories do not feature, including ranitidine - often t… [+2306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Michail",
+            "title": "Motorola Edge 30 Ultra and Edge 30 Fusion launch in India - GSMArena.com news - GSMArena.com",
+            "description": "Open sales start on September 22.",
+            "url": "https://www.gsmarena.com/motorola_edge_30_ultra_and_edge_30_fusion_launch_in_india-news-55764.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/09/motorola-edge-30-ultra-fusion-india-ofic/-952x498w6/gsmarena_00.jpg",
+            "publishedAt": "2022-09-13T09:32:01Z",
+            "content": "Motorola announced its Edge 30 Ultra and Edge 30 Fusion last week and now both phones made their way to India.\r\nEdge 30 Ultra is available in Starlight White and Interstellar Black colors with retail… [+630 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Reuters",
+            "title": "Jean-Luc Godard, Godfather of French New Wave cinema, dies at 91 - The Indian Express",
+            "description": "Film director Jean-Luc Godard, known for pushing cinematic boundaries and inspiring iconoclastic directors across the globe, died on Tuesday aged 91.",
+            "url": "https://indianexpress.com/article/entertainment/hollywood/french-filmmaker-jean-luc-godard-dead-8148310/",
+            "urlToImage": "https://images.indianexpress.com/2022/09/godard-2.jpeg",
+            "publishedAt": "2022-09-13T08:26:26Z",
+            "content": "Film director Jean-Luc Godard, the godfather of France’s New Wave cinema, died on Tuesday aged 91, newspaper Liberation said, citing people close to the Franco-Swiss director. Godard was among the wo… [+1741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Gurgaon: Bomb scare at 5-star hotel in a mall. Details here | Mint - Mint",
+            "description": "The Gurgaon police and bomb squad have reached the spot",
+            "url": "https://www.livemint.com/news/india/gurgaon-bomb-scare-at-5-star-hotel-in-a-mall-in-gurugram-details-here-11663056336935.html",
+            "urlToImage": "https://images.livemint.com/img/2022/09/13/600x338/gurgaon_1588306080288_1588306080685_1663056600395_1663056600395.jpg",
+            "publishedAt": "2022-09-13T08:10:40Z",
+            "content": "A bomb threat call received at a five-star hotel in a mall in Gurugram, news agency ANI reported."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Koffee With Karan 7: Varun Dhawan Reveals \"The Only Person\" He Considers Competition - NDTV Movies",
+            "description": "\"I seek inspiration from that and aspire to do it too as a performer,\" said Varun Dhawan",
+            "url": "https://www.ndtv.com/entertainment/koffee-with-karan-varun-dhawan-reveals-who-he-considers-his-competition-3339876",
+            "urlToImage": "https://c.ndtvimg.com/2022-09/uh2g6s0g_-varun-dhawan-_625x300_13_September_22.jpg",
+            "publishedAt": "2022-09-13T07:55:36Z",
+            "content": "Anil Kapoor, KJo and Varun on the show. (courtesy: karanjohar)\r\nMumbai: Koffee With Karan Season 7 is candidly taking viewers a step closer to the secrets of celebrities week after week. In its eleve… [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Congress Is Finished, Says Arvind Kejriwal In Gujarat - NDTV",
+            "description": "Arvind Kejriwal, responding to an allegation by the Congress, said in Gujarat today, \"The Congress is finished\".",
+            "url": "https://www.ndtv.com/india-news/congress-is-finished-says-arvind-kejriwal-in-gujarat-3339800",
+            "urlToImage": "https://c.ndtvimg.com/2022-09/3hnj6tqo_arvind-kejriwal_650x400_13_September_22.jpg",
+            "publishedAt": "2022-09-13T07:55:00Z",
+            "content": "Mr Kejriwal has been pitching AAP as the BJP's main rival, instead of the Congress.\r\nAhmedabad: Arvind Kejriwal, responding to an allegation by the Congress, declared in Gujarat today, \"The Congress … [+1411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "WION Web Team",
+            "title": "India`s cervical cancer vaccine can turn the tables significantly, doctors say - WION",
+            "description": "Cervavac is expected to be ready for mass manufacturing by the end of this year.",
+            "url": "https://www.wionews.com/india-news/indias-cervical-cancer-vaccine-can-turn-the-tables-significantly-doctors-say-515683",
+            "urlToImage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/09/13/295311-untitled-design-8.png",
+            "publishedAt": "2022-09-13T07:47:05Z",
+            "content": "Doctors believe that Cervavac, India's first indigenously developed cervical cancer vaccine that works against the human papillomavirus (HPV), can significantly lower the incidence and fatality of th… [+1400 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Sounak Mukhopadhyay",
+            "title": "Cancer treatment: Here comes US President Joe Biden’s big plan to reduce deaths in US | Mint - Mint",
+            "description": "US President Joe Biden has announced an ambitious plan to reduce cancer deaths in the US.",
+            "url": "https://www.livemint.com/news/world/cancer-treatment-here-comes-us-president-joe-biden-s-big-plan-to-reduce-deaths-in-us-11663051150514.html",
+            "urlToImage": "https://images.livemint.com/img/2022/09/13/600x338/Election-2022-Democrats-0_1663054300932_1663054300932_1663054320023_1663054320023.jpg",
+            "publishedAt": "2022-09-13T07:36:53Z",
+            "content": "Cancer is the second leading cause of death in the US after heart disease. And, now, US President Joe Biden has unveiled an ambitious strategy to lower its fatalities. Biden introduced a new organisa… [+3820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abplive.com"
+            },
+            "author": "IANS",
+            "title": "Tamil Nadu Reports Spike In Flu Among Children - ABP Live",
+            "description": "Doctors said that there is a 25 per cent spike in the number of flu-related fever, cold, and cough in the past few weeks across the state especially among school-going children.",
+            "url": "https://news.abplive.com/tamil-nadu/tamil-nadu-reports-spike-in-flu-among-children-1553119",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/09/08/3227b2ff1233fb2dbe3c9eb591becb4d1662638068788235_original.jpeg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+            "publishedAt": "2022-09-13T07:27:17Z",
+            "content": "Chennai: With Flu on the rise among children in various districts of Tamil Nadu, the admission rates in hospitals have increased and a large number of students are absent from schools.\r\nDoctors said … [+1965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Vedanta Chairman Anil Agarwal: 'The journey from being a chip taker to a chip maker has officially begun' | Mint - Mint",
+            "description": "Vedanta Ltd has selected Gujarat for its semiconductor project",
+            "url": "https://www.livemint.com/news/india/vedanta-chairman-anil-agarwal-the-journey-from-being-a-chip-taker-to-a-chip-maker-has-officially-begun-11663052486866.html",
+            "urlToImage": "https://images.livemint.com/img/2022/09/13/600x338/Anil_Agarwal__1663053789209_1663053789335_1663053789335.jpg",
+            "publishedAt": "2022-09-13T07:24:16Z",
+            "content": "Vedanta Ltd and and electronics manufacturing giant Foxconn will invest 1,54,000 crore to set up a semiconductor project in Gujarat. The Memorandum of Understanding (MoU) was signed in the presence o… [+3469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.bgr.in"
+            },
+            "author": "Shweta Ganjoo",
+            "title": "Realme launches a new entry-level in India: Check price, specs - BGR India",
+            "description": "The Realme Narzo 50i Prime starts in India at Rs 7999 and it will be up for sale in the country starting 12PM on September 22.",
+            "url": "https://www.bgr.in/mobiles/realme-narzo-50i-prime-launched-in-india-check-price-specs-availability-here-1324081/",
+            "urlToImage": "https://st1.bgr.in/wp-content/uploads/2022/09/Realme-Narzo-50i-Prime-4.jpg",
+            "publishedAt": "2022-09-13T07:22:01Z",
+            "content": "Realme today launched a new entry smartphone in India. The newly launched Realme Narzo 50i Prime joins other Narzo 50 series smartphones, which includes the Narzo 50A, Narzo 50i, Narzo 50, Narzo 50A … [+2249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Shruti Dhapola",
+            "title": "Apple iOS 16 tips and tricks: Edit lock screen, remove photo background and more - The Indian Express",
+            "description": "iOS 16 tips, tricks: The iOS 16 update brings a major design change for the lock screen along with changes to the Messages app and other features. Here's a quick look at some useful tip.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-ios-16-tips-and-tricks-customise-lock-screen-to-removing-photo-background-8147990/",
+            "urlToImage": "https://images.indianexpress.com/2022/09/AppleiOS16_LEAD.jpg",
+            "publishedAt": "2022-09-13T07:05:37Z",
+            "content": "Apples iOS 16 update has officially rolled out for all eligible iPhones, from the iPhone 8 and above, and it comes with some neat features that users will appreciate. The iOS 16 update brings a major… [+4126 chars]"
+        }
     ]
-    }
+}
