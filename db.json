@@ -260,5 +260,11 @@
             "publishedAt": "2022-09-13T07:05:37Z",
             "content": "Apples iOS 16 update has officially rolled out for all eligible iPhones, from the iPhone 8 and above, and it comes with some neat features that users will appreciate. The iOS 16 update brings a major… [+4126 chars]"
         }
+    ],
+    "cred": [
+        {
+            "userId": "notelyfe",
+            "pass": "newsapp"
+        }
     ]
-  }
+}
